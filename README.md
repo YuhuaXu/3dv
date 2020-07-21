@@ -1,4 +1,4 @@
-#3D Vision Group
+# 3D Vision Group
 
 - [研究方向](3dv_fields.md)
 - 项目
