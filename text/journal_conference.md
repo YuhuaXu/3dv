@@ -1,4 +1,19 @@
 # 需要关注的会议和期刊
+
+### 会议
+
+[CVF opencv access](https://openaccess.thecvf.com/menu)
+
+CVPR
+
+ICCV
+
+ECCV [2020](eccv2020.md)
+
+(CVPR，ICCV，ECCV是计算机视觉领域，三大顶级会议)
+
+BMVC
+
 ### 视觉和图像方向期刊
 PAMI
 
@@ -16,16 +31,6 @@ Computer Vision and Image Understanding
 
 Pattern Recognition
 
-### 会议
-CVPR
-
-ICCV
-
-ECCV
-
-(CVPR，ICCV，ECCV是计算机视觉领域，三大顶级会议)
-
-BMVC
 
 ### 机器学习
 International Conference on Learning Representations (ICLR)
@@ -63,4 +68,3 @@ Optics Letters
 中国科学
 
 科学通报
-
